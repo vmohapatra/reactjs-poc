@@ -20,11 +20,9 @@
         "express": "^4.13.4",
         "express3-handlebars": "^0.5.2",
         "hbs": "^4.0.0",
-        "mongodb": "^2.0.49",
-        "mongoose" : ">=3.6.0",
         "body-parser": "~1.0.1",
         "express-session": "^1.13.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
     "homepage": "https://github.com/vmohapatra/reactjs-poc#readme"
 }
